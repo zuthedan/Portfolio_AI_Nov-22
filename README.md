@@ -17,8 +17,7 @@ Behaviour Tree:
 	Speaking of behaviour trees, this is part of a game jam project, where I decided to implement an AI by using a behaviour tree. 
 	I already did the base nodes for an earlier project, so for this one I just had to do some minor changes to them.
 	The leaf nodes were designed to create a kind of stalking behaviour for our planned horror game.
-	Even though our team was not able to bring this production to an end, 
-	this project further improved my experiences with behaviour trees.
+	Even though our team was not able to bring this production to an end, this project further improved my experiences with behaviour trees.
 	
 ConsoleChess_C++:
 
